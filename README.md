@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on DevOps<br>👯 I’m looking to collaborate on Full Stack  Developer<br>🤝 I’m looking for help with a profound MNC<br>🌱 I’m currently learning DSA<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on development<br>👯 I’m looking to collaborate on Full Stack  Developer<br>🤝 I’m looking for help with a profound MNC<br>🌱 I’m currently learning DSA<br>💬 Ask me about tech<br>⚡ 
 
 
 # 💻 Tech Stack:
@@ -13,8 +13,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sanskriti-mehra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/@Mocha&Code) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
